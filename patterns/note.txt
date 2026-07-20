@@ -1,0 +1,9 @@
+variable inside a loop causes repetetion of same values
+Example: 1 2 3
+         1 2 3
+         1 2 3
+
+variable outside a loop causes increment/decrement of the values
+Example: 1 2 3
+         4 5 6
+         7 8 9
